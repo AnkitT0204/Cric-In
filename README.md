@@ -1,2 +1,2 @@
-# CricketGameUsingC-C
-Made a cricket game using C++and c
+# Cricket Game made using C programming language
+Made a virtual cricket game name "Cric-In" using C language.
