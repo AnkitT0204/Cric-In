@@ -1,2 +1,1 @@
-# Cricket Game made using C programming language
-Made a virtual cricket game name "Cric-In" using C language.
+# Developed Virtual Cricket Game App name "Cric-In" using C++ programming language
